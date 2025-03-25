@@ -2,7 +2,7 @@
 ##  Tableau Dataset Crime Data Los Angeles 2020-2024
 
 <p align="center">
-<img src="Sertifikat Data Series 18 Business Intelligence.jpg" width="400" height="250">
+<img src="Sertifikat Data Series 18 Business Intelligence.jpg" width="80%" height="30%">
 </p>
 
 Source Dataset from Kaggle : https://www.kaggle.com/datasets/samithsachidanandan/crime-data-from-2020-to-present <br>
