@@ -1,10 +1,13 @@
 # Assignment Data Series 18.0 Business Intelligence Dibimbing
 ##  Tableau Dataset Crime Data Los Angeles 2020-2024
+
+<p align="center">
+<img src="Sertifikat Data Series 18 Business Intelligence.jpg" width="400" height="250">
+</p>
+
 Source Dataset from Kaggle : https://www.kaggle.com/datasets/samithsachidanandan/crime-data-from-2020-to-present <br>
 Source Code from Colab : https://colab.research.google.com/drive/1GBfV2VMWevndYtffeDKiiEgX4VBDf16t?usp=sharing <br>
 Source Dashboard from Tableau : https://public.tableau.com/views/CrimeDataLosAngeles2020-2024/Sheet10?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
-
-Description
 
 ### Objective :
 The primary objective of the Crime Data from 2020 to Present dataset is to provide a detailed and accessible record of crime incidents in Los Angeles since 2020. This dataset is intended to support data-driven analysis, enabling researchers, data scientists, and public safety officials to gain insights into the patterns, trends, and distribution of various crime types.
