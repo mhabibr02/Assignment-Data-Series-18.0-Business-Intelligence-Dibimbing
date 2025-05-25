@@ -1,13 +1,10 @@
 # Assignment Data Series 18.0 Business Intelligence Dibimbing
-##  Tableau Dataset Crime Data Los Angeles 2020-2024
-
+## Tableau Dataset Crime Data Los Angeles 2020-2024
+### Description
+Data Series 18.0 Business Intelligence by [Dibimbing](https://dibimbing.id/) is a comprehensive and hands-on learning program designed to equip participants with in-demand skills in Business Intelligence (BI). Organized by Dibimbing.id, this series focuses on teaching participants how to collect, process, analyze, and visualize data to drive strategic business decisions.
 <p align="center">
 <img src="/Certificate/Sertifikat Data Series 18 Business Intelligence.jpg" width="80%" height="30%">
 </p>
-
-Source Dataset from Kaggle : https://www.kaggle.com/datasets/samithsachidanandan/crime-data-from-2020-to-present <br>
-Source Code from Colab : https://colab.research.google.com/drive/1GBfV2VMWevndYtffeDKiiEgX4VBDf16t?usp=sharing <br>
-Source Dashboard from Tableau : https://public.tableau.com/views/CrimeDataLosAngeles2020-2024/Sheet10?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 ### Objective
 The primary objective of the Crime Data from 2020 to Present dataset is to provide a detailed and accessible record of crime incidents in Los Angeles since 2020. This dataset is intended to support data-driven analysis, enabling researchers, data scientists, and public safety officials to gain insights into the patterns, trends, and distribution of various crime types.
@@ -27,6 +24,11 @@ The primary objective of the Crime Data from 2020 to Present dataset is to provi
    
 ### Conclusion
 In summary, the Crime Data from 2020 to Present dataset is a vital resource for understanding and addressing urban crime in Los Angeles. Despite potential challenges with data precision due to manual transcription, the dataset’s comprehensive breakdown by date, time, location, and crime category offers valuable insights. These findings can drive more effective public safety policies and resource deployment strategies, ultimately contributing to safer communities.
+
+### Source
+Source Dataset from Kaggle : https://www.kaggle.com/datasets/samithsachidanandan/crime-data-from-2020-to-present <br>
+Source Code from Colab : https://colab.research.google.com/drive/1GBfV2VMWevndYtffeDKiiEgX4VBDf16t?usp=sharing <br>
+Source Dashboard from Tableau : https://public.tableau.com/views/CrimeDataLosAngeles2020-2024/Sheet10?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 ### Remark
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on [Email](mailto:azizhabibrahim@gmail.com) and 
